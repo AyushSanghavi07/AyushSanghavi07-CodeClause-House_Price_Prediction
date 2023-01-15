@@ -3,7 +3,6 @@
 ## Software requirment:
 #### IDE - Google Colab, Pycharm, Jupyter notebook
 #### Language - Python
-#### Dataset - http://www.kaggle.com/
 
 ## Agenda
 #### 1. Read Dataset
